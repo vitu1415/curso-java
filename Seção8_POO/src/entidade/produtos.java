@@ -1,11 +1,15 @@
 package entidade;
 
-import javax.swing.Spring;
-
 public class produtos {
     public String nome;
     public double valor;
     public int quantidade;
+
+    public produtos (String nome, double valor, int quantidade){
+        this.nome = nome;
+        this.valor = valor;
+        this.quantidade = quantidade;
+    }
 
     public double TotalEstoque() {
         return valor * quantidade;

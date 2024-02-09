@@ -11,7 +11,7 @@ public class App {
         SenhaDijitada = sc.nextInt();
     }
     System.out.println("acesso permitido");
-    sc.close();
+    sc.close();*/
     Scanner sc = new Scanner(System.in);
     int x, y;
     x = 1;
@@ -32,8 +32,8 @@ public class App {
             System.out.println("quarto");
         }
     }
-    sc.close();*/
-    Scanner sc = new Scanner(System.in);
+    sc.close();
+    /*Scanner sc = new Scanner(System.in);
     int x, alcool, gasolina, disel;
     x = 0;
     alcool = 0;
@@ -52,6 +52,7 @@ public class App {
         }
     }
     System.out.println("MUITO OBRIGADO\nAlcool = "+alcool+"\nGasolina = "+gasolina+"\ndisel = "+disel);
-    sc.close();
+    sc.close();*/    
+
     }
 }

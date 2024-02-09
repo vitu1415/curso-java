@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\Users\falve\OneDrive\Vitor\programação_java\.metadata\.plugins\org.eclipse.jdt.core
-4123552910.index
-1865797976.index
-1201096014.index

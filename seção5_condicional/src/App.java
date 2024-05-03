@@ -69,6 +69,5 @@ public class App {
         }
         System.out.println("Dia da semana: " + dia);
         sc.close();
-
     }
 }
